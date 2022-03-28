@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
 
-# I put here my own blog url ,you can change it.
 url="https://getpython.wordpress.com/"
 BASE_URL = "https://getpython.wordpress.com/"
 #Requests module use to data from given url
